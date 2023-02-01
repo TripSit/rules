@@ -1,309 +1,195 @@
-Terms of Service (Redirected from [Network Terms of Service](/index.php?title=Network_Terms_of_Service&redirect=no "Network Terms of Service"))
-===============================================================================================================================================
-
-### Contents
-
-*   [1 Terms of Service](#Terms_of_Service)
-*   [2 Measures](#Measures)
-*   [3 Disclaimer of Liability](#Disclaimer_of_Liability)
-    *   [3.1 Non-Tripsit rooms](#Non-Tripsit_rooms)
-*   [4 Prohibited Use](#Prohibited_Use)
-    *   [4.1 Specifically, you may not](#Specifically.2C_you_may_not)
-    *   [4.2 Sourcing](#Sourcing)
-*   [5 Underage users](#Underage_users)
-*   [6 Accounts](#Accounts)
-*   [7 Third party sites](#Third_party_sites)
-*   [8 Privacy](#Privacy)
-*   [9 Contact address](#Contact_address)
-
-Welcome to the TripSit IRC Network. We have created a ruleset to help communicating with each other while maintaining a comfortable atmosphere.
-
-If you have any questions, please join **#tripsit.me** to discuss unclear rules with us.
-
-Should you witness a user breaking one of these rules, use the **~report** command (**~report #channel user reason**) to notify the TripSit [staff](http://wiki.tripsit.me/wiki/List_of_staff_and_their_roles).
-
-Terms of Service
-================
-
-1\. By using and remaining connected to this site, and any other site owned and operated by TripSit (TripSit.me), you signify your agreement to the terms, conditions and notices of this policy.
-
-2\. You indemnify TripSit, and it's managers (any owner, operator, or associate of this website, including but not limited to the administrators, moderators, webmaster, technical contacts, and officers; henceforth to be referred to simply as 'managers') take no responsibility or liability for anything that happens as a result of you reading or posting any information at TripSit.
-
-3\. You acknowledge IRC is a free, real-time, unmoderated media, and as such, TripSit Managers have little-to-no control over what users say in a chat room and cannot delete comments once they have been said.
-
-4\. TripSit may block access to users whose IRC clients run on (or connect through) hosts with open proxies, abuse-heavy anonymizer services, trojans, botnets, or other categories of software determined to present special risk to TripSit-operated server environment.
-
-5\. TripSit reserves the right to use automation to attempt to detect such software on your host, as you connect to TripSit servers, while you remain connected to the network and on occasion during post-connection analysis. Your use of the network signifies your acceptance.
-
-6\. If you do not accept the above policy, any use of TripSit IRC from your facilities is unauthorized and should cease immediately, after which TripSit Managers will be happy to discuss the matter further.
-
-7\. If you've been affected by a connect limit or a server ban, please feel free to appeal via email to: appeals at tripsit dot me. Sometimes users are affected by problems not of their own making. TripSit administrators will try to remove the ban or provide an exception if possible.
-
-8\. By continuing to enter and browse TripSit and it's systems, you are implying that you have read, understand and are in agreement with all of the terms stated in this document
-
-Measures
-========
-
-Use of this service, and any other site owned and operated by TripSit implies your understanding and consent of the following clauses:
-
-1\. TripSit reserves the right to take action to restrict or terminate your access to TripSit at any time for any reason.
-
-2\. In case TripSit receives a court order with a properly authorized request, any stored information may be provided to law enforcement officials.
-
-3\. We like to deal with other behaviors in a softer manner, by guiding the user and explaining to them what is and isn't allowed.
-
-4\. In the case of repeated offences or a bad attitude we reserve the right to forgoe these protocols in favor of the community.
-
-5\. Every case is unique and will be dealt with to the best of the ability of the [staff](http://wiki.tripsit.me/wiki/List_of_staff_and_their_roles) on duty at the time.
-
-6\. Every action by TripSit Managers is logged and audited.
-
-7\. Arguing with a staff member about the rules in a public channel is grounds for being removed from the channel.
-
-Disclaimer of Liability
-=======================
-
-1\. You agree to hold responsible yourself, and no other, for the consequences of your actions while here.
-
-2\. Neither TripSit nor its managers assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, document, link, product, or post disclosed within this website.
-
-3\. Reference herein to any specific post, process, service or product offered by a member of this forum, or otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favoring by TripSit or its managers.
-
-4\. While the managers will attempt to remove, edit or correct any generally objectionable or false material as quickly as possible, it is impossible to review every message.
-
-5\. Therefore, you acknowledge that all data submitted to this website expresses the views and opinions of the author and not necessarily of TripSit or its managers.
-
-6\. Nothing on the board is to be taken as real and these may be games or fantasies people are expressing, therefore: Research on your own before taking someone's advice or following their example.
-
-7\. We want to provide you with the best network ever, but it is ultimately your responsibility what you post in chat.
-
-8\. Be aware that legislation differs depending on location and do not suggest illegal acts.
-
-Non-Tripsit rooms
------------------
-
-1\. The TripSit Team will not police rooms created by users, however, if there are reports of activity going against our rules we reserve the right to intervene, including the permanent takeover or shutdown of a channel.
-
-Prohibited Use
-==============
-
-1\. Rules have been established to protect TripSit and its members against abuse.
-
-2\. Use of TripSit for any purpose that is unlawful, or in any manner which could impair the operation of this site or any other party's use or enjoyment of this site, is strictly prohibited.
-
-Specifically, you may not
--------------------------
-
-1\. Use TripSit in any way, shape or form for unlawful purposes, including, without limitation:
-
-1.         I. Attempting to solicit or obtain contraband substances or substances of a quasi\-legal status or information on how to do so (please see our guidelines on sourcing below).
-
-1.         II. Posting or exchanging any information on ongoing or future criminal activity, any information which can be construed as discussing such activity or actively encouraging others to engage in criminal activities.
-
-2\. Post any content that is libelous, deceptive, fraudulent, tortious or inaccurate.
-
-3\. Post any content that is copyrighted by another, or invasive of another's privacy. This includes linking to any peer to peer sites, such as torrent search engines that allow access to copyrighted material.
-
-4\. Post any content that victimizes, harasses, degrades, or intimidates an individual or group of individuals on the basis of race, ethnicity, religion, sexual orientation or any other reason.
-
-5\. Associate a third-party website with TripSit without authorization.
-
-6\. Act as an official representive of TripSit.
-
-7\. Interfere with service to any user or host including, without limitation, mail-bombing, flooding, and attempting to deliberately overload the system.
-
-8\. Attempt to gain unauthorized access to data, accounts or systems of this service, or probe, scan or test the vulnerability of a system of this service; disseminate in any way, content originally posted in any staff-only area of this service.
-
-9\. Use other Internet sites to promote libelous or slanderous messages about TripSit or incite abuse against TripSit.
-
-Sourcing
---------
-
-Absolutely **no** sourcing.
-
-Sourcing is defined as:
-
-1\. Discussion, requesting or posting the personaly identifying information of websites, online vendors (this includes websites such as Amazon) and real-life people who sell or coordinate the purchase, distribution, or production of: Chemicals (legal, clearnet, or otherwise), paraphernalia, and currencies (bitcoin).
-
-2\. Asking for a vendor's name **(This includes doctors)**, URL, PGP key or any other contact information.
-
-Keep in mind sarcasm is hard to tell on the internet, it's better to err on the side of caution when considering to jokingly ask for sources.
-
-  
-**Definitions**
-
-*   Vendor: A person or group selling or distributing specific goods.
-
-*   Marketplace: A trade hub on which vendors trade goods.
-
-*   Linking: Posting a URL hyperlink into a channel.
-
-**Not allowed**
-
-*   Linking to chemical vendors. Legal, clearnet, or otherwise.
-
-*   This includes, but is not limited to:
-
-*   Legal psychoactives, such as caffeine, nootropics, or tobacco
-
-*   Darknet marketplaces
-
-*   Research Chemicals
-
-*   "Legal Highs"
-
-*   Herbal supplements or blends
-
-*   Soliciting currencies and drugs.
-
-*   This includes, but is not limited to:
-
-*   Asking for currencies in a public channel
-
-*   Asking for drugs in a public channel (Remember, sarcasm is hard to tell on the internet)
-
-*   Selling currencies or drugs in a public channel
-
-*   Discussion of vendors.
-
-*   "How is reliable is \[vendor\]?"
-
-*   "Hey how much does Tek's weed sell for?"
-
-*   "How much does \[Chemical\] cost on Chemicals.com?"
-
-*   "Does \[Vendor\] on \[Marketplace\] have good \[Drug\]"
-
-*   Discussing the specifics or otherwise going in depth to the mechanics of online vending.
-
-*   Arguing or otherwise debating these rules in a public channel
-
-*   **Take it to #tripsit.me!**
-
-**Allowed**
-
-*   Discussing brand name products such as Valium, or a brand name vaporizer.
-
-*   Linking to a [discussion page for clearnet vendors](http://wiki.tripsit.me/wiki/Clearnet_Vendor_Discussion), not the vendor themself.
-
-*   Linking to paraphernalia and [harm reduction equipment](http://wiki.tripsit.me/wiki/Harm_Reduction_Supplies).
-
-*   This includes
-
-*   Scales
-
-*   Test Kits
-
-*   Sterile needles
-
-*   Sterile water
-
-*   Nitrous dispensers
-
-*   Water Pipes
-
-*   Vaporizers
-
-*   Talking about marketplaces in a GENERAL sense.
-
-*   "Can SR 2.0 be trusted?"
-
-*   "Is it safe to trade on Agora?"
-
-*   Asking the price of a drug in a general sense.
-
-*   "How much does weed cost in \[given area\]?"
-
-*   "How much does \[substance\] usually cost?"
-
-**Be aware**
-
-We like to deal with other behaviors in a softer manner, by guiding the user and explaining to them what is and isn't allowed. In the case of repeated offences or a bad attitude we reserve the right to forgoe these protocols in favor of the community. Every case is unique and will be dealt with to the best of the ability of the staff on duty at the time. Every action is logged and audited.
-
-**Rules are NOT to be argued in public channels. If you have a problem with the rules, take it to #tripsit.me or PM. Arguing with a staff member about the rules in a public channel is grounds for being removed from the channel.**
-
-**Remember: Everything you post on the internet is recorded in some way and can/will make it's way back to you. It is for your own safety and the safety of the network that these rules are in place. We want to provide you with the best network ever. It is ultimately your responsibility what you post in chat. Be aware that legislation differs depending on location and do not suggest illegal acts.**
-
-Underage users
-==============
-
-1\. While TripSit welcomes users and communities from all ends of the spectrum, our network is not designed for nor aimed at children - in accordance with the United States government and the Children's Online Privacy Protection Act of 1998, individuals under the age of 13 are not permitted to browse TripSit nor create user accounts.
-
-2\. We require (in accordance with the Children's Online Privacy Act of 1998) that minors 13 years of age or older ask their parents for permission before logging on, and to refrain from posting any information about themselves, personal or otherwise, on the network.
-
-3\. If you have collected information from or about a child under the age of 13, both parties will face a network ban.
-
-Accounts
-========
-
-The administrators of TripSit reserve the right to delete any and all data associated with abandoned accounts including, but not limited to: Profile information entered by the user, channels owned by the user or blog posts made by the user.
-
-1.     I. Further, TripSit reserves the right to reissue the username & any channels associated with an abandoned account.
-
-1.     II.  An account is deemed to be abandoned if the account has no activity in the last three months.
-
-1.     III. A channel is deemed to be abandoned if the channel has no operator activity in the last month.
-
-Third party sites
-=================
-
-The TripSit staff maintains an offsite presence (to some extent) on the following sites:
-
-Facebook: [https://www.facebook.com/tripsitme](https://www.facebook.com/tripsitme)
-
-Reddit: [http://reddit.com/r/tripsit](http://reddit.com/r/tripsit)
-
-GoFundMe: [http://www.gofundme.com/tripsit](http://www.gofundme.com/tripsit)
-
-Mumble: coconut.tripsit.me
-
-Bitcoin: 1EDqf32gw73tc1WtgdT2FymfmDN4RyC9RN
-
-Any links to Facebook groups, chat rooms, or other online communities other than those listed here are not affiliated with TripSit in any way. The administration of TripSit can not enforce our policies off site.
-
-Privacy
-=======
-
-1\. Everything you post on the internet is recorded in some way and can/will make it's way back to you: It is for your own safety and the safety of the network that these rules are in place.
-
-2\. Any communication that you transmit to TripSit should be considered non-confidential, and you agree that TripSit will not be liable or responsible if information that belongs to you is intercepted or used by an unintended recipient.
-
-3\. TripSit does not monitor private communications, however it should be assumed that any other party is logging what they see in public chat or a private message.
-
-4\. As a user you agree to any information you have entered in a public chat or forum being stored in a database.
-
-5\. In addition, this website uses cookies to store information on your local computer.
-
-1.     I. These cookies do not contain any of the registration information you have entered; they serve only to improve your viewing experience.
-
-6\. TripSit provides a Tor hidden service to protect the identity of users, and you are welcome to use this hidden service at your own discretion.
-
-7\. While personal information (including but not limited to your name, email, and IP) will not be disclosed to any third party without your prior consent, the managers cannot be held responsible for any hacking attempt that may lead to the data being compromised.
-
-8\. TripSit will not share member information with any party, unless the member has violated the TripSit User Agreement, in which case TripSit may take all necessary measures to ensure its security, including publishing the information or sharing it with private investigators.
-
-9\. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, TripSit has put in place physical, electronic, and managerial procedures to safeguard and secure the information it collects online
-
-10\. Any unauthorized access to this system is prohibited and is subject to criminal and civil penalties under Federal Laws including but not limited to Public Laws 83-703 and 99-474.
-
-11\. IP addresses may be recorded to aid in enforcing these conditions.
-
-12\. You agree that TripSit and its managers have the right to remove, edit, move or close any submitted data at anytime should they choose to.
-
-13\. TripSit is an informational and community resource which does not advocate breaking any laws.
-
-Contact address
-===============
-
-Rules are enforced by the TripSit staff. If you see a thread violating the rules, please use the "Report" button under the poster's name to notify the moderators. If you see a post in a chat room against our rules, please use the command " **/msg TripBot ~report #channel user reason** ". Try to be as clear and detailed as possible when explaining the nature of the problem. You may also talk to the TripSit Managers at any time in IRC by saying " **/join #tripsit.me** " or using [this link](http://chat.tripsit.me/?nick=Problem?#tripsit.me). Please join **#tripsit.me** if you are unclear or need further explanation about any IRC rules. The **#help** room has staff there to address network-related issues, such as problems connecting.
-
-Top Contributors
-----------------
-
-[Roi](/wiki/User:Roi "User:Roi"), [Physical](/wiki/User:Physical "User:Physical") and [Teknos](/index.php?title=User:Teknos&action=edit&redlink=1 "User:Teknos (page does not exist)")
-
-Retrieved from "[https://wiki.tripsit.me/index.php?title=Terms\_of\_Service&oldid=5699](https://wiki.tripsit.me/index.php?title=Terms_of_Service&oldid=5699)"
-
-[Category](/wiki/Special:Categories "Special:Categories"):
-
-*   [Information](/index.php?title=Category:Information&action=edit&redlink=1 "Category:Information (page does not exist)")
+# Acceptance Of Terms
+By using and remaining connected to this site, and any other site owned and operated by TripSit (TripSit.me), you signify your agreement to the terms, conditions and notices of this policy. If you do not agree to this policy, do not use this site. Your continued use of this site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+# Contact
+Team TripSit created these rules to protect community members and promote a comfortable atmosphere for everyone. 
+
+**If you want to discuss the rules**
+This includes discussing a moderator action or the contents of the rules in general:
+* **Via Discord:** Create a thread in #help-desk or PM TripBot
+* **Via IRC:** Join #talk-to-TripSit
+* **Via Email:** rules@TripSit.me
+
+**If you see someone breaking the rules**
+Don't engage with trolls, it only fuels their behavior. Instead, report them to a moderator.
+* **Via Discord:**
+  * Mention the @moderator team in any channel
+  * Use the /report slash command
+  * Use the report message command (Right-click/long-tap on a message > Apps > Report)
+* **Via IRC:**
+  * Join the #talk-to-TripSit room
+* **Via Reddit:**
+  * Send a mod mail to /r/TripSit
+* **Via Email:**
+  * infractions@TripSit.me
+
+**If you have broken these rules**
+Do NOT message a moderator directly to complain or appeal against your ban.
+* **Via Discord:**
+  * You can DM TripBot (TripBot#2388) and appeal via mod mail.
+  * You will need to enable Direct Messages from people you do not share a server with for this to work.
+  * If this does not work, use Email or Reddit.
+* **Via IRC:**
+  * Use Email or Reddit
+* **Via Reddit:**
+  * Do NOT make a new post.
+  * Send a mod mail to /r/TripSit
+* **Via Email:**
+  * appeals@TripSit.me
+
+**If you have not broken any rules and are banned from the service:**
+We understand that sometimes users can be affected by problems outside their control. 
+TripSit administrators will try to remove the ban or supply an exception if possible.
+* **Via Discord:**
+  * Do NOT message a moderator directly to complain or appeal your ban
+  * If you still have access to TripBot, you can PM them and appeal via mod mail
+  * Otherwise, use an Email
+* **Via IRC:**
+  * Use Email
+* **Via Reddit:**
+  * Send a mod mail to /r/TripSit
+* **Via Email:**
+  * appeals@TripSit.me
+
+# Definitions
+## Vendor
+A person or group selling or distributing specific goods.
+“Vendors” include, but are not limited to:
+Individual users online.
+Darknet marketplaces.
+Clearnet ‘research’ websites.
+## Marketplace
+A trading hub on which vendors trade goods.
+## Linking
+Posting a URL hyperlink into a channel.
+## Personally-Identifying Information
+PII is information that can be used to find a specific individual, such as:
+Vendor's name (This includes medical doctors).
+URLs.
+Phone numbers.
+Addresses.
+Usernames.
+PGP keys.
+## Sourcing
+Discussion, requesting, or posting personally identifying information of websites, online vendors, or real-life people who sell or coordinate the purchase, distribution, or production of substances (legal, clearnet, or otherwise) or cryptocurrencies.
+## Substances
+Drugs, chemicals, research chemicals, such as:
+Legal psychoactive substances, such as caffeine, nootropics, or tobacco.
+E-juice or other nicotine products.
+Research Chemicals.
+"Legal Highs."
+Herbal supplements or blends.
+## TripBot
+A discord bot created by TripSit.
+## Ban evasion
+The act of creating a new account or otherwise to circumventing a moderator action.
+## Medical advice
+Information that could only be relaiably given by a medical professional regarding a person's health.
+"Drink water" is not medical advice, "take Xmg of Y substance to treat Z condition" is.
+
+# Third-Party sites
+These policies apply to the following websites where the TripSit team keeps an online presence. TripSit is not affiliated with any other websites not included in this list. TripSit can only enforce our policies on-site.
+**Facebook Group:** https://www.facebook.com/groups/tripsit
+**Facebook Page:** https://www.facebook.com/TripSitme
+**Discord:** https://discord.gg/TripSit
+**IRC:** irc.TripSit.me
+**Reddit:** http://reddit.com/r/TripSit
+**GoFundMe:** http://www.gofundme.com/TripSit
+**Patreon:** https://www.patreon.com/TripSit
+**Spreadshirt:** https://tripsit.myspreadshop.com/
+**Bitcoin:** 1EDqf32gw73tc1WtgdT2FymfmDN4RyC9RN
+
+# Disclaimer of Liability
+1. You agree to hold yourself responsible, and no other, for the consequences of your actions while here.
+2. You indemnify TripSit, and its managers (any owner, operator, or associate of this website, including but not limited to the administrators, moderators, webmaster, technical contacts, and officers; henceforth to be referred to simply as 'managers') take no responsibility or liability for anything that happens because of you reading or posting any information at TripSit.
+3. Neither TripSit nor its managers assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, document, link, product, or post disclosed within this website.
+4. You acknowledge IRC is a free, real-time, unmoderated media, and as such, TripSit Managers have little-to-no control over what users say in a chat room and cannot remove comments once someone has posted them.
+5. While the managers will try to remove, edit, or correct any objectionable or false material as quickly as possible, it is impossible to review every message; therefore, you acknowledge that all data sent to this website expresses the views and opinions of the author and not necessarily of TripSit or its managers.
+6. References here to any specific post, process, service, or product offered by a member of this forum or otherwise do not necessarily imply its endorsement, recommendation, or favoring by TripSit or its managers.
+7. Nothing in the chat is guaranteed to be correct. These may be games or fantasies people are expressing; therefore: Research on your own before taking someone's advice or following their example.
+8. Everything you post on the internet is recorded somehow. It is your responsibility what you post in chat.
+9. Any communication you send to TripSit should be considered non-confidential, and you agree that TripSit will not be liable or responsible if information that belongs to you is intercepted or used by an unintended recipient.
+10. The managers cannot be held responsible for any hacking attempt that may lead to compromised data.
+
+# Measures
+TripSit may take the following actions to protect itself and its members:
+
+1. TripSit reserves the right to restrict or stop your access to TripSit or our services at any time for any reason:
+   1. In the case of severe or repeated offenses or lack of cooperation, we reserve the right to forgo protocols.
+   2. TripSit may block access to users who run on (or connect through) hosts with open proxies, abuse-heavy anonymizer services, trojans, botnets, or other software categories determined to present a unique risk to the TripSit-operated server environment.
+2. TripSit reserves the right to publish, edit, delete or restore contributed content as it sees fit.
+   1. TripSit reserves the right to edit any user profile at any time for any reason.
+   2. TripSit will remove any content from its sites that TripSit, in its sole discretion, determines to be harmful, offensive, or otherwise in violation of these policies.
+3. TripSit team reserves the right to discuss the content of private messages sent to them with any and all team members for community management.
+4. In case of suspected violation of policies or if required by court order, TripSit may perform selective electronic monitoring of any traffic through its systems.
+   1. TripSit reserves the right to use automation to detect such software on your host as you connect to TripSit servers, while you still are connected to the network, and during post-connection analysis.
+   2. In case TripSit receives a court order with a properly authorized request, any stored information may be provided to law enforcement officials.
+5. The administrators of TripSit reserve the right to remove any data associated with abandoned accounts:
+   1.  An abandoned account has not had activity in the last three months.
+   2.  Deleted data may include
+       1.  Profile information entered by the user.
+       2.  Channels owned by the user.
+       3.  Blog posts made by the user.
+   3.  Further, TripSit reserves the right to reissue the username associated with an abandoned account.
+
+# Privacy Policy
+1. To prevent unauthorized access, support data accuracy, and ensure the proper use of information, TripSit has implemented physical, electronic, and managerial procedures to safeguard and secure the information it collects online.
+   1. Any unauthorized access to this system is prohibited and is subject to criminal and civil penalties under Federal Laws, including Public Laws 83-703 and 99-474.
+2. TripSit will only share member information with a party if the member has violated the TripSit User Agreement. 
+   1. TripSit may take all necessary measures to ensure its security, including publishing or sharing the information with private investigators.
+3. TripSit uses cookies on the website to store information on your local computer.
+   1. These cookies do not have any of the registration information you have entered; they only improve your viewing experience.
+4. TripBot stores information when interacting with the bot; you can remove this information with the /privacy command.
+5. TripSit, as an organization, does not keep activity logs, but individual users may have recorded logs themselves.
+6. TripSit cannot watch one-on-one conversations. Still, the other party may save and share that record.
+7. As a user of the internet, everything you post is recorded somehow and can make its way back to you: Do not post anything online that you do not want to be made public:
+   1. Be mindful about sharing photos that can be used to reveal your identity or location (this includes pictures showing street signs, storefronts, phone numbers on pet identification tags, etc.). Be mindful that metadata from images can sometimes reveal personal information, so exercise caution when sharing photos. Discord strips metadata but use caution when using external services
+
+
+# Limitations On Use
+Remember: Breaking rules as a joke is still breaking the rules.
+
+1. Do not connect to TripSit or use our services if you are under eighteen.
+2. Do not use TripSit for any purpose or in any manner which could impair any other party's use or enjoyment of this site.
+   1. Do not post anything considered offensive/upsetting to those in an altered mindset without a spoiler and content warning tag.
+   2. Do not post images with the intent of causing disruption, including flashing imagery, spamming images, or multiple gifs.
+   3. Do not post pornography (including softcore), gore, depictions of acts of violence, or other offensive content.
+   4. Do not display an offensive profile picture, including pornography of any kind.
+   5. Do not use an offensive nickname or one that could cause anxiety in others, e.g., law enforcement or dictators.
+   6. Do not post content that victimizes, harasses, degrades, or intimidates an individual or group based on race, ethnicity, religion, sexual orientation, gender identification, drug of choice, level of addiction, or other reasons.
+   8.  Do not argue rules in public channels.
+3.  Do not discuss, request, or post identifying information of websites, online vendors, or real-life people who sell or coordinate the purchase, distribution, or production of substances (legal, clearnet, or otherwise) or cryptocurrencies, i.e., no sourcing.
+    1.  Do not discuss the specifics or go in-depth into the mechanics of online vending.
+    2.  Do not show drug packaging to show how a vendor delivered something. 
+4.  Do not post any content that encourages, promotes, or signifies the intent to engage in unnecesarily harmful practices.
+    1.  Do not encourage substance use, instead: Discourage drug dosages, drug combinations, or any drug experimentation which could be reliably considered unsafe.
+    2.  Do not post pictures or videos of drug consumption that glorify substance use, eg, “stash pics” or excessive dosages.
+    3.  Do not refuse to follow harm reduction standards, e.g., continually engage in recklessly destructive behavior or refuse to call EMS when directed.
+    4.  Do not post suicide threats; our team is not qualified to manage this situation and will need to refer to Reddit's SuicideWatch community and suicide prevention hotlines by country: https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines
+5.  Do not post intentionally libelous, defamatory, deceptive, fraudulent, tortious, or inaccurate content, i.e., misinformation.
+6.  Do not post any content that is medical advice or imply that you can give medical advice.
+    1.  Do not use “Dr” or “MD” in your nickname.
+7.  Do not post any content that violates another's privacy.
+    1.  Do not post or collect personal information about channel members or doxing.
+    2.  Do not post images of people expecting privacy or being unable to consent (children, intoxicated).
+    3.  Do not disseminate content originally posted in any team-only areas.
+    4.  Do not use network monitoring or discovery software to determine the site architecture or extract information about usage or users.
+8.  Do not post content that bypasses moderation actions, i.e., ban evasion.
+    1.  Do not make multiple/new accounts, change your IP, or do anything else to get around the action.
+9.  Do not post content that links to other communication services, e.g., other discords, matrix servers, forums, telegram chats, video chat services, etc., that are not focused on harm reduction without prior permission.
+10. Do not post any content that bypasses copyright laws.
+11. Do not intentionally interfere with our services
+    1.  Do not mail-bomb, flood, or attempt to overload the system deliberately.
+    2.  Do not probe, scan or test the vulnerability of a system of this service without authorization.
+    3.  Do not intentionally overload any of our systems.
+    4.  Do not attempt to gain unauthorized access to data, accounts, or systems.
+    5.  Do not act as an official representative of TripSit without authorization.
+    6.  Do not associate third-party services with TripSit without authorization.
+    7.  Do not use any robot, spider, other automatic devices, or manual process to monitor or copy our website or the content.
+    8.  Do not use this website to transmit false, misleading, fraudulent, or illegal communications;
+12. Do not use the content on this website for unapproved commercial exploitation.
+    1.  Including decompiling, reverse engineering, disassembling, renting, leasing, loaning, selling, sublicensing, or creating derivative works from the website or the content.
+    2.  Including coping, modifying, reproducing, republishing, distributing, displaying, or transmitting for commercial purposes all or any portion of the website.
+    3.  Including using or otherwise exporting the website or any portion thereof, the content, or any software available on or through the website in violation of the export control laws and regulations of the United States of America.
+    4.  Including using the website or the content in any manner that may infringe any copyright, intellectual property right, proprietary right, or property right of the provider or any third parties or violate any state or federal law.
+13. Any unauthorized use of the Website or its Content is prohibited.
