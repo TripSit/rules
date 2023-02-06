@@ -4,12 +4,14 @@ By using and remaining connected to this site, and any other site owned and oper
 # Contact
 Team TripSit created these rules to protect community members and promote a comfortable atmosphere for everyone. 
 
+## Disuss the rules
 **If you want to discuss the rules**
 This includes discussing a moderator action or the contents of the rules in general:
 * **Via Discord:** Create a thread in #help-desk or PM TripBot
 * **Via IRC:** Join #talk-to-TripSit
 * **Via Email:** rules@TripSit.me
 
+## Report rule breaking
 **If you see someone breaking the rules**
 Don't engage with trolls, it only fuels their behavior. Instead, report them to a moderator.
 * **Via Discord:**
@@ -23,6 +25,7 @@ Don't engage with trolls, it only fuels their behavior. Instead, report them to 
 * **Via Email:**
   * infractions@TripSit.me
 
+## Ban appeals
 **If you have broken these rules**
 Do NOT message a moderator directly to complain or appeal against your ban.
 * **Via Discord:**
@@ -37,6 +40,7 @@ Do NOT message a moderator directly to complain or appeal against your ban.
 * **Via Email:**
   * appeals@TripSit.me
 
+## Ban troubleshooting
 **If you have not broken any rules and are banned from the service:**
 We understand that sometimes users can be affected by problems outside their control. 
 TripSit administrators will try to remove the ban or supply an exception if possible.
