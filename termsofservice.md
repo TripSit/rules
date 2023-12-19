@@ -169,8 +169,8 @@ Remember: Breaking rules as a joke is still breaking the rules.
 4.  Do not post any content that encourages, promotes, or signifies the intent to engage in unnecesarily harmful practices.
     1.  Do not encourage substance use, instead: Discourage drug dosages, drug combinations, or any drug experimentation which could be reliably considered unsafe.
     2.  Do not post pictures or videos of drug consumption that glorify substance use, eg, “stash pics” or excessive dosages.
-    4.  Do not refuse to follow harm reduction standards, e.g., continually engage in recklessly destructive behavior or refuse to call EMS when directed.
-    5.  Do not post suicide threats; our team is not qualified to manage this situation and will need to refer to Reddit's SuicideWatch community and suicide prevention hotlines by country: https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines
+    3.  Do not refuse to follow harm reduction standards, e.g., continually engage in recklessly destructive behavior or refuse to call EMS when directed.
+    4.  Do not post suicide threats; our team is not qualified to manage this situation and will need to refer to Reddit's SuicideWatch community and suicide prevention hotlines by country: https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines
 5.  Do not post intentionally libelous, defamatory, deceptive, fraudulent, tortious, or inaccurate content, i.e., misinformation.
 6.  Do not post any content that is medical advice or imply that you can give medical advice.
     1.  Do not use “Dr” or “MD” in your nickname.
