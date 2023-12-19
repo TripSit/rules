@@ -161,6 +161,7 @@ Remember: Breaking rules as a joke is still breaking the rules.
    4. Do not display an offensive profile picture, including pornography of any kind.
    5. Do not use an offensive nickname or one that could cause anxiety in others, e.g., law enforcement or dictators.
    6. Do not post content that victimizes, harasses, degrades, or intimidates an individual or group based on race, ethnicity, religion, sexual orientation, gender identification, drug of choice, level of addiction, or other reasons.
+   7. Do not post photographs, illustrations, 3D models, and memes depict guns, weapons, or any related paraphernalia.
    8.  Do not argue rules in public channels.
 3.  Do not discuss, request, or post identifying information of websites, online vendors, or real-life people who sell or coordinate the purchase, distribution, or production of substances (legal, clearnet, or otherwise) or cryptocurrencies, i.e., no sourcing.
     1.  Do not discuss the specifics or go in-depth into the mechanics of online vending.
