@@ -161,15 +161,17 @@ Remember: Breaking rules as a joke is still breaking the rules.
    4. Do not display an offensive profile picture, including pornography of any kind.
    5. Do not use an offensive nickname or one that could cause anxiety in others, e.g., law enforcement or dictators.
    6. Do not post content that victimizes, harasses, degrades, or intimidates an individual or group based on race, ethnicity, religion, sexual orientation, gender identification, drug of choice, level of addiction, or other reasons.
-   8.  Do not argue rules in public channels.
+   7. Do not post photographs, illustrations, 3D models, and memes featuring firearms or other weapons types.
+   8.  depict guns, weapons, or any related paraphernalia. This includes, but is not limited to, 
+   9.  Do not argue rules in public channels.
 3.  Do not discuss, request, or post identifying information of websites, online vendors, or real-life people who sell or coordinate the purchase, distribution, or production of substances (legal, clearnet, or otherwise) or cryptocurrencies, i.e., no sourcing.
     1.  Do not discuss the specifics or go in-depth into the mechanics of online vending.
     2.  Do not show drug packaging to show how a vendor delivered something. 
 4.  Do not post any content that encourages, promotes, or signifies the intent to engage in unnecesarily harmful practices.
     1.  Do not encourage substance use, instead: Discourage drug dosages, drug combinations, or any drug experimentation which could be reliably considered unsafe.
     2.  Do not post pictures or videos of drug consumption that glorify substance use, eg, “stash pics” or excessive dosages.
-    3.  Do not refuse to follow harm reduction standards, e.g., continually engage in recklessly destructive behavior or refuse to call EMS when directed.
-    4.  Do not post suicide threats; our team is not qualified to manage this situation and will need to refer to Reddit's SuicideWatch community and suicide prevention hotlines by country: https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines
+    4.  Do not refuse to follow harm reduction standards, e.g., continually engage in recklessly destructive behavior or refuse to call EMS when directed.
+    5.  Do not post suicide threats; our team is not qualified to manage this situation and will need to refer to Reddit's SuicideWatch community and suicide prevention hotlines by country: https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines
 5.  Do not post intentionally libelous, defamatory, deceptive, fraudulent, tortious, or inaccurate content, i.e., misinformation.
 6.  Do not post any content that is medical advice or imply that you can give medical advice.
     1.  Do not use “Dr” or “MD” in your nickname.
