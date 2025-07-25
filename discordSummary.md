@@ -1,6 +1,5 @@
 By using and remaining connected to this discord you signify your agreement of TripSit's full terms and conditions: https://github.com/TripSit/rules/blob/main/termsofservice.md If you do not agree to this policy, do not use this site.
 
-:ts_rules: Server Rules
 1) TripSit is 18+ ONLY. Do not connect to TripSit or use our services if you are under eighteen.
 	* You can connect to our webchat on chat.tripsit.me to receive immediate help from our tripsitters, and you can access resources at tripsit.me
 	* Note: TripSit currently does not do age verification. If someone asks you for your ID and says they're a mod from this server, it's fake!
