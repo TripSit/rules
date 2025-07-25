@@ -1,4 +1,8 @@
-By using and remaining connected to this discord you signify your agreement of TripSit's full terms and conditions: https://github.com/TripSit/rules/blob/main/termsofservice.md If you do not agree to this policy, do not use this site.
+By using and remaining connected to this discord you signify your agreement of TripSit's [full terms and conditions](https://github.com/TripSit/rules/blob/main/termsofservice.md).
+The below is a [summary of our rules for discord](https://github.com/TripSit/rules/blob/main/discordSummary.md).
+
+
+: https://github.com/TripSit/rules/blob/main/termsofservice.md If you do not agree to this policy, do not use this site.
 
 :ts_rules: Server Rules
 1) TripSit is 18+ ONLY. Do not connect to TripSit or use our services if you are under eighteen.
