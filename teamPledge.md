@@ -1,4 +1,4 @@
-🌈 The TripSit Pledge
+🌈 The TripSit Agreement
 
 TripSit exists to help people — with patience, inclusivity, non‑judgement, and care for everyone’s wellness. By being part of this team, I’m committing to embody those values every day, with our community and with each other.
 I pledge to:
