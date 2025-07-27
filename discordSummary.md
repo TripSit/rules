@@ -1,47 +1,59 @@
-By using and remaining connected to this discord, and any other site owned and operated by TripSit (TripSit.me), you signify your agreement of TripSit's [full terms and conditions](https://github.com/TripSit/rules/blob/main/termsofservice.md).
-The below is a [summary of our rules for discord](https://github.com/TripSit/rules/blob/main/discordSummary.md). If you do not agree to this policy, do not use our services.
+-# By using and remaining connected to this Discord, and any other site owned and operated by TripSit (TripSit.me), you signify your agreement of TripSit's [full terms and conditions](https://github.com/TripSit/rules/blob/main/termsofservice.md).
+-# The below is a [summary of our rules for Discord](https://github.com/TripSit/rules/blob/main/discordSummary.md). If you do not agree to this policy, please refrain from using our services.
+-# While we'll try to make it clear when rules are added or updated, these rules may update without formal notice. Please follow the [GitHub repo](https://github.com/TripSit/rules/) to keep updated when rules are changed.
 
-# Updates
-While we will try to make it clear when rules are added or updated, these rules may update without formal notice. Please follow the [github repo](https://github.com/TripSit/rules/. to keep updated when rules are changed.
+# <:ts_rules:1350331409641767034> Server Rules
+- **1. TripSit is 18+ ONLY.**
+  - **a.** You must be eighteen or older to connect to TripSit or use our services.
 
-:ts_rules: Server Rules
-1. TripSit is 18+ ONLY. Do not connect to TripSit or use our services if you are under eighteen.
-	a) Our services are intended for adult usage and we do not approve or condone minors using our services.
-	b) If we discover that someone under the age of 18 is accessing our services we will do what we can to remove that access.
-Note: TripSit currently does not do age verification. If someone asks you for your ID and says they're a mod from this server, it's fake! This also means that if you even joke about being <18, we will take you at your word, ban you, and there is no way to undo an underage ban until they turn 18 based on the age given.
-2. Do not use TripSit for any purpose or in any manner which could impair any other party's use or enjoyment of this site. Including:
-	a) Anything considered offensive/upsetting to those in an altered mindset without a spoiler and content warning tag.
-	b) Images with the intent of causing disruption, including flashing imagery, spamming images, or multiple GIFs.
-	c) Pornography (including soft core), gore, depictions of acts of violence, or other offensive content.
-	d) Displaying an offensive profile picture, including pornography of any kind.
-	e) Using an offensive nickname or one that could cause anxiety in others, e.g., law enforcement or dictators.
-	f) Posting content that victimizes, harasses, degrades, or intimidates an individual or group based on race, ethnicity, religion, sexual orientation,  gender identification, drug of choice, level of addiction, mental health status, or other reasons.
-	g) Do not post explicit content outside of the designated areas.
-	h) Do not argue rules in public channels, take it to ⁠🙊│talk-to-mods.
-	i) Do not discuss electoral politics or world news in lounge, this kind of discussion is only allowed in ⁠📰│news.
-3. No sourcing. Do not discuss, request, or post identifying information of websites, online vendors, or real-life people who sell or coordinate the purchase, distribution, or production of substances, legal, clear-net, or otherwise, or cryptocurrencies.
-	a) Do not discuss the specifics or go in-depth into the mechanics of online vending.
-	b) Do not show drug packaging to show how a vendor delivered something.
-4. Do not post any content that encourages, promotes, or signifies the intent to engage in harmful practices. Including:
-	a) Encouraging substance use or normalizing dangerous or excessive use, including sharing drug journal screenshots) Discourage drug dosages, drug combinations, or any drug experimentation which could be reliably considered unsafe.
-	b) Posting pictures or videos of substances, unless it's for harm reduction or education, in which case please ask a mod for approval before posting.
-	c) Refusing to follow harm reduction standards, eg, continually engage in destructive behavior or refuse to call EMS when directed.
-	d) Posting suicide threats; our team is not qualified to manage this situation and will need to refer to Reddit's SuicideWatch community and suicide prevention hotlines by country: https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines
-	e) No consuming or showing drugs on video call.
-5. Do not post intentionally libellous, defamatory, deceptive, fraudulent, tortious, or inaccurate content, i.e., misinformation.
-6. Do not post any content that is medical advice or imply that you can give medical advice.
-	a) Do not use “Dr” or “MD” in your nickname.
-7. Do not post any content that violates another's privacy. Including:
-	a) Posting or collecting personal information about server members or doxing.
-	b) Posting images of people expecting privacy or being unable to consent (children, intoxicated).
-	c) Disseminating content originally posted in any team-only areas.
-	d) Using network monitoring or discovery software to determine the site architecture or extract information about usage or users.
-8. Do not post content that bypasses moderation actions, i.e., ban evasion
-	a) Do not make multiple/new accounts, change your IP, or do anything else to get around the action.
-	b) Do not post screenshots of auto mod blocking your messages.
-9. Do not post any content that links to other communication services, e.g., other discords, matrix servers, etc.
-10. Do not post any content that bypasses copyright laws.
-11. Do not intentionally interfere with our services.
-    a) Raiding, spamming, API abuse, bridge flooding, etc.
-12. Do not use the content on this website for unapproved commercial exploitation.
-13. Any unauthorized use of the Website or its Content is prohibited.
+- **2. Keep this a respectful, positive and enjoyable space for everyone.**
+  - **a.** Use a spoiler tag for anything that may be offensive or upsetting to those in an altered mindset.
+  - **b.** Avoid posting with the intent of causing disruption, such as flashing imagery or spam.
+  - **c.** No pornography, gore, depictions of acts of violence or other offensive content.
+  - **d.** Your profile and display name should be appropriate, free of offensive content, and respectful, avoiding anything that could cause anxiety in others, such as impersonating law enforcement or dictators.
+  - **e.** Ensure your content does not victimize, harass, degrade, or intimidate an individual or group based on race, ethnicity, religion, sexual orientation, gender identification, drug of choice, level of addiction, mental health status, or other reasons.
+  - **f.** Keep explicit and drug related content only within designated areas.
+  - **g.** Discuss rules via proper channels such as <#970695525693288498> rather than public ones.
+  - **h.** Avoid discussing electoral politics or world news in any channel other than <#1121447428994895873>.
+
+- **3. No sourcing.**
+  - **a.** Please refrain from discussing, requesting, or posting identifying information of websites, online vendors, or real-life people who sell or coordinate the purchase, distribution, or production of substances (legal, clear-net, or otherwise) or cryptocurrencies.
+  - **b.** Avoid discussing the specifics or go in-depth into the mechanics of online vending, including showing drug packaging of how a vendor delivered something.
+
+- **4. Promote safety and harm reduction.**
+  - **a.** All content should encourage and promote safe practices, and discussions should actively discourage unsafe drug dosages, combinations, or any experimentation reliably considered unsafe.
+  - **b.** No drug/stash pics or consumption journals. Please seek moderator approval before posting to ensure it is for harm reduction or educational purposes.
+  - **c.** Adhering to harm reduction standards is expected which means refraining from continually engaging in destructive behaviour or refusing to call EMS when directed.
+  - **d.** No suicide threats. Our team is not qualified to manage this situation and will need to refer to Reddit's SuicideWatch community and [suicide prevention hotlines by country](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines).
+  - **e.** Avoid consuming or showing drugs on video call.
+
+- **5. Content should be truthful and accurate.**
+  - **a.** Content should be truthful and accurate to the best of the poster's ability, avoiding anything libelous, defamatory, deceptive, fraudulent, tortious or inaccurate.
+
+- **6. Do not give or imply medical advice.**
+  - **a.** Do not post any content that is medical advice or imply that you can give medical advice.
+  - **b.** Avoid using “Dr", “MD” or other terms that can imply you are a professional in your display name.
+    
+- **7. Respect the privacy of others.**
+  - **a.** Posting or collecting personal information about server members or doxing is strictly prohibited.
+  - **b.** Avoid posting identifiable images of people who are expecting privacy or unable to consent such as children or intoxicated individuals.
+  - **c.** Any content originally posted in a team-only area should not be disseminated.
+  - **d.** The use of network monitoring or discovery software to determine site architecture or extract information about usage or users is not allowed.
+
+- **8. Do not avoid moderator actions.**
+  - **a.** Do not make multiple/new accounts, change your IP, or do anything else to get around moderator actions.
+  - **b.** Do not post screenshots of auto mod blocking your messages or intentionally obfuscate spelling of blocked words.
+
+- **9. Avoid linking to other communication services.**
+  - **a.** This includes other Discords, Matrix servers, etc.
+
+- **10. Adhere to copyright laws.**
+  - **a.** Do not share or distribute copyrighted material without proper authorization or licensing.
+
+- **11. Do not intentionally interfere with our services.**
+  - **a.** No raiding, spamming, API abuse, bridge flooding, etc.
+
+- **12. All content is for non-commercial use only.**
+  - **a.** Do not use it for unapproved commercial exploitation.
+
+- **13. Any unauthorized use of the website or its content is prohibited.**
