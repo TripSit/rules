@@ -1,6 +1,9 @@
 # Acceptance Of Terms
 By using and remaining connected to this site, and any other site owned and operated by TripSit (TripSit.me), you signify your agreement to the terms, conditions and notices of this policy. If you do not agree to this policy, do not use this site. Your continued use of this site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
+# Updates
+While we will try to make it clear when rules are added or updated, these rules may update without formal notice. Please follow the [github repo](https://github.com/TripSit/rules/) to keep updated when rules are changed.
+ 
 # Contact
 Team TripSit created these rules to protect community members and promote a comfortable atmosphere for everyone. 
 
@@ -10,6 +13,7 @@ This includes discussing a moderator action or the contents of the rules in gene
 * **Via Discord:** Create a thread in #help-desk or PM TripBot
 * **Via IRC:** Join #talk-to-TripSit
 * **Via Email:** rules@TripSit.me
+* **Via Github:** https://github.com/TripSit/rules/
 
 ## Report rule breaking
 **If you see someone breaking the rules**
@@ -153,47 +157,54 @@ TripSit may take the following actions to protect itself and its members:
 # Limitations On Use
 Remember: Breaking rules as a joke is still breaking the rules.
 
-1. Do not connect to TripSit or use our services if you are under eighteen.
-2. Do not use TripSit for any purpose or in any manner which could impair any other party's use or enjoyment of this site.
-   1. Do not post anything considered offensive/upsetting to those in an altered mindset without a spoiler and content warning tag.
-   2. Do not post images with the intent of causing disruption, including flashing imagery, spamming images, or multiple gifs.
-   3. Do not post pornography (including softcore), gore, depictions of acts of violence, or other offensive content.
-   4. Do not display an offensive profile picture, including pornography of any kind.
-   5. Do not use an offensive nickname or one that could cause anxiety in others, e.g., law enforcement or dictators.
-   6. Do not post content that victimizes, harasses, degrades, or intimidates an individual or group based on race, ethnicity, religion, sexual orientation, gender identification, drug of choice, level of addiction, or other reasons.
-   8.  Do not argue rules in public channels.
-3.  Do not discuss, request, or post identifying information of websites, online vendors, or real-life people who sell or coordinate the purchase, distribution, or production of substances (legal, clearnet, or otherwise) or cryptocurrencies, i.e., no sourcing.
-    1.  Do not discuss the specifics or go in-depth into the mechanics of online vending.
-    2.  Do not show drug packaging to show how a vendor delivered something. 
-4.  Do not post any content that encourages, promotes, or signifies the intent to engage in unnecesarily harmful practices.
-    1.  Do not encourage substance use, instead: Discourage drug dosages, drug combinations, or any drug experimentation which could be reliably considered unsafe.
-    2.  Do not post pictures or videos of drug consumption that glorify substance use, eg, “stash pics” or excessive dosages.
-    3.  Do not refuse to follow harm reduction standards, e.g., continually engage in recklessly destructive behavior or refuse to call EMS when directed.
-    4.  Do not post suicide threats; our team is not qualified to manage this situation and will need to refer to Reddit's SuicideWatch community and suicide prevention hotlines by country: https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines
+1. TripSit is 18+ ONLY. Do not connect to TripSit or use our services if you are under eighteen.
+  a) Our services are intended for adult usage and we do not approve or condone minors using our services.
+  b) If we discover that someone under the age of 18 is accessing our services we will do what we can to remove that access.
+	Note: TripSit currently does not do age verification. If someone asks you for your ID and says they're a mod from this server, it's fake! This also means that if you even joke about being <18, we will take you at your word, ban you, and there is no way to undo an underage ban until they turn 18 based on the age given.
+2. Do not use TripSit for any purpose or in any manner which could impair any other party's use or enjoyment of this site. Including:
+	a. Anything considered offensive/upsetting to those in an altered mindset without a spoiler and content warning tag.
+	b. Images with the intent of causing disruption, including flashing imagery, spamming images, or multiple GIFs.
+	c. Pornography (including soft core), gore, depictions of acts of violence, or other offensive content.
+	d. Displaying an offensive profile picture, including pornography of any kind.
+	e. Using an offensive nickname or one that could cause anxiety in others, e.g., law enforcement or dictators.
+	f. Posting content that victimizes, harasses, degrades, or intimidates an individual or group based on race, ethnicity, religion, sexual orientation,  gender identification, drug of choice, level of addiction, mental health status, or other reasons.
+	g. Do not post explicit content outside of the designated areas.
+	h. Do not argue rules in public channels.
+  i. Do not discuss electoral politics or world news in the lounge room.
+3. No sourcing. Do not discuss, request, or post identifying information of websites, online vendors, or real-life people who sell or coordinate the purchase, distribution, or production of substances, legal, clear-net, or otherwise, or cryptocurrencies.
+  a)  Do not discuss the specifics or go in-depth into the mechanics of online vending.
+  b)  Do not show drug packaging to show how a vendor delivered something. 
+4.  Do not post any content that encourages, promotes, or signifies the intent to engage in harmful practices. Including:
+	a) Encouraging substance use or normalizing dangerous or excessive use, including sharing drug journal screenshots) Discourage drug dosages, drug combinations, or any drug experimentation which could be reliably considered unsafe.
+	b) Posting pictures or videos of substances, unless it's for harm reduction or education, in which case please ask a mod for approval before posting.
+	c) Refusing to follow harm reduction standards, eg, continually engage in destructive behavior or refuse to call EMS when directed.
+	d) Posting suicide threats; our team is not qualified to manage this situation and will need to refer to Reddit's SuicideWatch community and suicide prevention hotlines by country: https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines
+	e) No consuming or showing drugs on video call.
 5.  Do not post intentionally libelous, defamatory, deceptive, fraudulent, tortious, or inaccurate content, i.e., misinformation.
 6.  Do not post any content that is medical advice or imply that you can give medical advice.
-    1.  Do not use “Dr” or “MD” in your nickname.
-7.  Do not post any content that violates another's privacy.
-    1.  Do not post or collect personal information about channel members or doxing.
-    2.  Do not post images of people expecting privacy or being unable to consent (children, intoxicated).
-    3.  Do not disseminate content originally posted in any team-only areas.
-    4.  Do not use network monitoring or discovery software to determine the site architecture or extract information about usage or users.
+  a.  Do not use “Dr” or “MD” in your nickname.
+7.  Do not post any content that violates another's privacy. Including:
+	a) Posting or collecting personal information about server members or doxing.
+	b) Posting images of people expecting privacy or being unable to consent (children, intoxicated).
+	c) Disseminating content originally posted in any team-only areas.
+	d) Using network monitoring or discovery software to determine the site architecture or extract information about usage or users.
 8.  Do not post content that bypasses moderation actions, i.e., ban evasion.
-    1.  Do not make multiple/new accounts, change your IP, or do anything else to get around the action.
+	a) Do not make multiple/new accounts, change your IP, or do anything else to get around the action.
+	b) Do not post screenshots of auto mod blocking your messages.
 9.  Do not post content that links to other communication services, e.g., other discords, matrix servers, forums, telegram chats, video chat services, etc., that are not focused on harm reduction without prior permission.
 10. Do not post any content that bypasses copyright laws.
 11. Do not intentionally interfere with our services
-    1.  Do not mail-bomb, flood, or attempt to overload the system deliberately.
-    2.  Do not probe, scan or test the vulnerability of a system of this service without authorization.
-    3.  Do not intentionally overload any of our systems.
-    4.  Do not attempt to gain unauthorized access to data, accounts, or systems.
-    5.  Do not act as an official representative of TripSit without authorization.
-    6.  Do not associate third-party services with TripSit without authorization.
-    7.  Do not use any robot, spider, other automatic devices, or manual process to monitor or copy our website or the content.
-    8.  Do not use this website to transmit false, misleading, fraudulent, or illegal communications;
+  a) Do not mail-bomb, flood, or attempt to overload the system deliberately.
+  b) Do not probe, scan or test the vulnerability of a system of this service without authorization.
+  c) Do not intentionally overload any of our systems.
+  d) Do not attempt to gain unauthorized access to data, accounts, or systems.
+  e) Do not act as an official representative of TripSit without authorization.
+  f) Do not associate third-party services with TripSit without authorization.
+  g) Do not use any robot, spider, other automatic devices, or manual process to monitor or copy our website or the content.
+  h) Do not use this website to transmit false, misleading, fraudulent, or illegal communications.
 12. Do not use the content on this website for unapproved commercial exploitation.
-    1.  Including decompiling, reverse engineering, disassembling, renting, leasing, loaning, selling, sublicensing, or creating derivative works from the website or the content.
-    2.  Including coping, modifying, reproducing, republishing, distributing, displaying, or transmitting for commercial purposes all or any portion of the website.
-    3.  Including using or otherwise exporting the website or any portion thereof, the content, or any software available on or through the website in violation of the export control laws and regulations of the United States of America.
-    4.  Including using the website or the content in any manner that may infringe any copyright, intellectual property right, proprietary right, or property right of the provider or any third parties or violate any state or federal law.
+  a) Including decompiling, reverse engineering, disassembling, renting, leasing, loaning, selling, sublicensing, or creating derivative works from the website or the content.
+  b) Including coping, modifying, reproducing, republishing, distributing, displaying, or transmitting for commercial purposes all or any portion of the website.
+  c) Including using or otherwise exporting the website or any portion thereof, the content, or any software available on or through the website in violation of the export control laws and regulations of the United States of America.
+  d) Including using the website or the content in any manner that may infringe any copyright, intellectual property right, proprietary right, or property right of the provider or any third parties or violate any state or federal law.
 13. Any unauthorized use of the Website or its Content is prohibited.
