@@ -5,9 +5,9 @@ I pledge to:
 
     🕊️ Lead with patience. I’ll take a breath before I react, offer guidance with kindness, and remember that everyone learns and heals at their own pace.
 
-    🌍 Be inclusive. I’ll welcome people of all genders, backgrounds, abilities, and identities — and shut down behavior that makes others feel unwelcome.
+    🌍 Be inclusive. I’ll welcome people of all genders, backgrounds, abilities, and identities, and points of view — and shut down behavior that makes others feel unwelcome.
 
-    💛 Practice non‑judgement. I won’t criticize or shame anyone for who they are, what they look like, or what they’re going through.
+    💛 Practice non‑judgement. I won’t criticize or shame anyone for who they are, what they look like, what they’re going through, or if they have a different point of view.
 
     🌱 Support wellness. I’ll look out for the mental, emotional, and physical health of both our community and our team, and ask for help when I need it too.
 
