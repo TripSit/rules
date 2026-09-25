@@ -7,9 +7,9 @@
   - **a.** You must be eighteen or older to connect to TripSit or use our services.
 
 - **2. Keep this a respectful, positive and enjoyable space for everyone.**
-  - **a.** Use a spoiler tag for anything that may be offensive or upsetting to those in an altered mindset.
+  - **a.** If your post is not against the rules but also may contain sensitive or questionable content, use a spoiler tag (\|| spooky scary skeletons||) and give a warning of what is behind it.
   - **b.** Avoid posting with the intent of causing disruption, such as flashing imagery or spam.
-  - **c.** No pornography, gore, depictions of acts of violence or other offensive content.
+  - **c.** No pornography, gore, depictions of acts of violence, gratuitous sexual discussion, or other explicit content. This includes photos/videos of firearms.
   - **d.** Your profile and display name should be appropriate, free of offensive content, and respectful, avoiding anything that could cause anxiety in others, such as impersonating law enforcement or dictators.
   - **e.** Ensure your content does not victimize, harass, degrade, or intimidate an individual or group based on race, ethnicity, religion, sexual orientation, gender identification, drug of choice, level of addiction, mental health status, or other reasons.
   - **f.** Keep explicit and drug related content only within designated areas.
@@ -17,14 +17,14 @@
   - **h.** Avoid discussing electoral politics or world news in any channel other than <#1121447428994895873>.
 
 - **3. No sourcing.**
-  - **a.** Please refrain from discussing, requesting, or posting identifying information of websites, online vendors, or real-life people who sell or coordinate the purchase, distribution, or production of substances (legal, clear-net, or otherwise) or cryptocurrencies.
+  - **a.** Please refrain from discussing, requesting, or posting identifying information of websites, online vendors, or real-life people who sell or coordinate the purchase, distribution, or production of substances (legal, clear-net, or otherwise) or cryptocurrencies. Websites, stores, organizations, etc that supply drug use and harm reduction equipment are allowed (and encouraged!).
   - **b.** Avoid discussing the specifics or go in-depth into the mechanics of online vending, including showing drug packaging of how a vendor delivered something.
 
 - **4. Promote safety and harm reduction.**
   - **a.** Do not suggest, recommend or encourage people to take any substances.
   - **b.** Do not ask anyone if you should take substances, or to make decisions on what substances you should take.
   - **c.** All content should encourage and promote safe practices, and discussions should actively discourage unsafe drug dosages, combinations, or any experimentation reliably considered unsafe.
-  - **d.** No drug/stash pics or consumption journals. Please seek moderator approval before posting to ensure it is for harm reduction or educational purposes.
+  - **d.** No drug/stash pics or consumption journals. This includes both legal and illegal substances. Please seek moderator approval before posting to ensure it is for harm reduction or educational purposes.
   - **e.** Adhering to harm reduction standards is expected which means refraining from continually engaging in destructive behaviour or refusing to call EMS when directed.
   - **f.** No suicide threats. Our team is not qualified to manage this situation and will need to refer to Reddit's SuicideWatch community and [suicide prevention hotlines by country](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines).
   - **g.** Avoid consuming or showing drugs on video call.
